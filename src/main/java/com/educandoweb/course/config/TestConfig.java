@@ -30,4 +30,4 @@ public class TestConfig implements CommandLineRunner{
 		
 		userRepository.saveAll(Arrays.asList(u1, u2, u3, u4, u5, u6, u7));
 	}
-}
+} 
